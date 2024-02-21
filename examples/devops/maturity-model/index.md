@@ -1,6 +1,6 @@
 # DevOps Maturity Model 
 
-DevOps Maturity Model that can serve as a helpful starting point for hiring and for creating your own.
+This is a DevOps Maturity Model example. It can serve as a helpful starting point for creating your own.
 
 ## Level 1: Initiate
 

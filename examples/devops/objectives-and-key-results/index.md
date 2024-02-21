@@ -1,6 +1,6 @@
 # DevOps Objectives and Key Results
 
-DevOps Objectives and Key Results
+This is a DevOps Objectives and Key Results example. It can serve as a helpful starting point creating your own.
 
 ## Objective 1: Improve Deployments
 
