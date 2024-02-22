@@ -26,7 +26,7 @@ This is a DevOps Decision Record example. It can serve as a helpful starting poi
 
 * Tool 1: Supports parallel execution of builds, parallel deployments, distributed architectures, and can handle large codebases up to [size] efficiently. [Links to sources of information].
 
-* Tool 2: Paid [New CI/CD Tool] has a community of users [size] and soruce code contributors [count], and provides access to specific plugins [x, y, z] that are relevant to us. Licensing cost is $x per year per developer. [Links to sources of information].
+* Tool 2: Paid [New CI/CD Tool] has a community of users [size] and source code contributors [count], and provides access to specific plugins [x, y, z] that are relevant to us. Licensing cost is $x per year per developer. [Links to sources of information].
 
 **Opinions**: List the perspectives of the team and stakeholders, and also third-party advisors and reviewers.
 
