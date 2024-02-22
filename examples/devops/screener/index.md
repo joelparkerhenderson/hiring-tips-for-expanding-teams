@@ -1,43 +1,43 @@
-# DevOps Screener
+# DevOps Interview
 
-This screener page helps us get to know a bit more about you. This screener helps us fairly compare candidates.
+This page helps us learn more about you that what's on your résumé. This page also helps us compare candidates more fairly.
 
 There are three sections:
 
 1. Current skills.
 
-2. Past results.
+2. Past experiences.
 
-3. Future decisions.
+3. Future goals.
 
-Each section has three short questions. 
-
-You can can timebox each section to 10 minutes.
+Timebox each section to 15 minutes.
 
 ## Current skills
 
 Please read this simplified example of a DevOps maturity model, 
 then there are a few questions.
 
-**Level 1: Initiate**
+### DevOps maturity model
+
+**Level 1: Beginner**
 
 * Tools: Basic automation for build, deployment, and CI/CD pipelines.
 
-* Themes: Basic monitoring, logging, alerting, and issue tracking.
+* Themes: Simple monitoring, logging, alerting, and issue tracking.
 
-* Teams: Basic communication between technical teams and technical vendors.
+* Teams: Ad-hoc communication, ad-hoc channels, and mostly intra-team.
 
-**Level 2: Standardize**
+**Level 2: Intermediatee**
 
-* Tools: Infrastructure as code (IaC) practices.
+* Tools: Infrastructure as code (IaC) practices, telemetry, DORA.
 
 * Themes: Automated testing, deployment, provisioning, and configuration.
 
 * Teams: Squad-wide collaboration, and dedicated communications channels.
 
-**Level 3: Orchestrate**
+**Level 3: Advanced**
 
-* Tools: Continuous autoscaling, self-healing, anti-fragile adaptivity.
+* Tools: Continuous adaptivity, self-healing, anti-fragility, APIs.
 
 * Themes: Emphasis on continuous improvement and opportunity-driven decisions.
 
@@ -45,72 +45,64 @@ then there are a few questions.
 
 ### Questions
 
-How are your current skills aligning with the areas of this maturity model? 
-
-* Tools:
+* Which tools do you use most now, and how, and why?
   
-* Themes:
+* What are themes that are important to you now?
 
-* Teams:
+* How are your team skills, such as soft skills?
 
-Any comments or feedback about this?
-
-* Freeform:
-
-## Past results
-
-Please read this simplified example of DevOps yearly goal plan,
-then there are a few questions.
-
-**Goal: Improve Customer Availability**
-
-* Target 1: Increase uptime to 99.99% for all customer-facing applications. Measure by synthetic users.
-
-* Target 2: Speed up incident response by reducing mean time to remediate (MTTR) by 20%. Measure by MTTR timing.
-
-**Goal: Establish Internal Observability**
-
-* Target 1: Implement system quality attribute monitoring for DORA metrics. Measure by % complete at 25% per metric.
-
-* Target 2: Establish service level objectives (SLOs) for our 10 critical services. Measure by number of SLOs signed.
-
-### Questions
-
-In your past work, what was your most-important goal (or objective, or plan, etc.) and the goal's most-important targets (or results, or outcomes, etc.)?
-
-* Goal:
-  
-* Target 1:
-  
-* Target 2:
-
-Any comments or feedback about this?
-
-* Freeform:
-
-## Future decisions
+## Past experiences
 
 Please read this simplified example of a DevOps decision record.
 then there are a few questions.
+
+### DevOps decision record
 
 **Title**: Add tooling to improve continuous delivery pipeline
 
 **Issue**: The DevOps team has identified the need to replace the existing CI/CD tool with a more scalable and feature-rich solution. The current tool lacks capabilities required for automated testing and deployment orchestration.
 
-**Assumptions**: Must work with our existing toolchain, including version control (e.g. Git), ticket tracking (e.g. Trello), and container orchestration (e.g. Kubernetes).
+**Assumptions**: Must work with our existing toolchain, including version control (e.g. Git), ticket tracking (e.g. Trello), hosting platform (e.g. Amazon Web Services), and container orchestration (e.g. Kubernetes).
 
 **Options**: Tool 1 provides parallel execution to distributed architectures, and support for large monorepos; cost is $100/developer/year; product is a monolith, cloud-only, closed source. Tool 2 is a plugin framework, with a community of 10K developers, and a dependence on polyrepos; product is microservice-based, on-premise only, open source.
 
 ### Questions
 
-In your future decisions such as this, how will you proceed?
+* What was one of your decisions and your decision-making process?
 
-* I will especially seek:
-
-* I will evaluate by doing:
+* How did you evaluate among options then decide on one?
   
-* I will decide when:
+* What lessons did you learn?
 
-Any comments or feedback about this?
+## Future goals
 
-* Freeform:
+Please read this simplified example of a DevOps goal list,
+then there are a few questions.
+
+### DevOps goal list
+
+**Goal 1: Improve Customer Availability**
+
+* Target: Increase uptime to 99.99% for all customer-facing applications. 
+
+* Metric: Measure by synthetic user interactions with the application.
+
+**Goal 2: Create Internal Observability**
+
+* Target: Implement system quality attribute monitoring for DORA metrics. 
+  
+* Metric: Measure by dashboard visibility of each of the four metrics (25% each).
+
+**Goal 3: Specify Critical System Quality Attributes**
+
+* Target: Establish service level objectives (SLOs) for our top 10 critical services. 
+  
+* Metric: Measure by number of SLOs signed by their respective accountable leads.
+
+### Questions
+
+* What top 3 goals do you imagine for a year of working together?
+  
+* Where will you target and why?
+  
+* How will you measure progress and success?
